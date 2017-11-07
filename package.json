@@ -1,0 +1,17 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "A node.js app that retrieves your uber trip data from the evil clutches of uber, using their public facing API; shared with their public driver website",
+  "main": "index.js",
+  "repository": "https://github.com/sguzman/UberTripData",
+  "author": "Salvador Guzman <guzmansalv@gmai.com>",
+  "license": "The Unlicensed",
+  "private": false,
+  "resolutions": {
+    "boom": "5.2.0"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
