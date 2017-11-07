@@ -10,6 +10,10 @@
   "resolutions": {
     "boom": "5.2.0"
   },
+
+  "scripts": {
+    "start": "./index.js"
+  },
   "dependencies": {
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
