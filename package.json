@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/sguzman/UberTripData",
   "author": "Salvador Guzman <guzmansalv@gmai.com>",
-  "license": "The Unlicensed",
+  "license": "Unlicense",
   "private": false,
   "resolutions": {
     "boom": "5.2.0"
